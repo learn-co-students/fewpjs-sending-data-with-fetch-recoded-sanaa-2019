@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,170 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 17
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 18
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 19
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 20
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 21
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 22
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 23
+    },
+    {
+      "name1": "name",
+      "email1": "email",
+      "id": 24
+    },
+    {
+      "name1": "name",
+      "email1": "email",
+      "id": 25
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 26
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 27
+    },
+    {
+      "name": "Myname",
+      "email": "email",
+      "id": 28
+    },
+    {
+      "name": "Myname",
+      "email": "email",
+      "id": 29
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 30
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 31
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 32
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 33
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 34
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +183,443 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 1
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 2
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 3
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 4
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 5
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 6
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 7
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 8
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 9
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 10
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 11
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 12
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 13
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 14
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 15
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 16
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 17
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 18
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 19
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 20
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 21
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 22
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 23
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 24
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 25
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 26
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 27
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 28
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 29
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 30
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 31
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 32
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 33
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 34
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 35
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 36
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 37
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 38
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 39
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 40
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 41
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 42
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 43
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 44
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 45
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 46
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 47
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 48
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 49
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 50
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 51
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 52
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 53
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 54
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 55
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 56
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 57
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 58
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 59
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 60
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 61
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 62
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 63
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 64
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 65
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 66
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 67
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 68
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 69
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 70
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 71
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 72
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 73
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 74
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 75
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 76
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 77
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 78
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 79
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 80
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 81
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 82
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 83
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 84
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 85
+    },
+    {
+      "name": "Myname",
+      "email": "email@email.com",
+      "id": 86
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
