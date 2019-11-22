@@ -15,9 +15,11 @@ function submitData(userName, userEmail){
     return responce.json();
   })
   .then(function(obj){
+    console.log(obj);
     document.body.innerHtml  = document.body.innerHtml+ obj.id + " ";
   })
   .catch(function(error){
+     console.log("error");
     document.body.innerHtml = error.message;
   });
 }
