@@ -16,10 +16,16 @@ function submitData(userName, userEmail){
   })
   .then(function(obj){
     console.log(obj);
-    document.body.innerHtml  = document.body.innerHtml+ obj.id + " ";
+    let h1 = document.createElement('h1')
+    h1.innerHTML =  obj.id +" ";
+    document.querySelector('body').appendChild(h1)
+   
   })
   .catch(function(error){
      console.log("error");
-    document.body.innerHtml = error.message;
+     let h1 = document.createElement('h1')
+     h1.innerHTML =  error.message +" ";
+     document.querySelector('body').appendChild(h1)
   });
 }
+submitData("Aisha","aisha1rashed@gmail.com");
