@@ -13,5 +13,5 @@ function submitData(name,email){
             }
         )
     }).then((jsonRes)=>jsonRes.json()).then((res)=>
-    {document.body.innerHTML = res.id})
+    {document.body.innerHTML = res.id}).catch((err)=>document.body.innerHTML = err.message);
 }
